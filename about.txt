@@ -1,3 +1,4 @@
 My name is Kommakula Venkata Naveen and I am from Guntur.
 I have been studying CSE(IoT) at RVR & JC College of Engineering and maintaining a CGPA of 9.22 currently.
-My schooling was done at KV Guntur and secured a 91% in my class 12th.
+My schooling was done at Kendriya Vidyalaya Guntur and secured a 91% in my class 12th.
+My projects are majorly IoT.
